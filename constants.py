@@ -18,6 +18,6 @@ GREY = (128, 128, 128)
 # fonts
 pygame.init() # to avoid font error
 FONT1 = pygame.font.SysFont("comicsans", 15)
-LOCAL_PATH = 'C:\\Users\\FPTSHOP\\Desktop\\workspace\\NhapMonTriTueNhanTao-20221'
+LOCAL_PATH = 'C:\\Users\\FPTSHOP\\Desktop\\TTNT\\TTNT-team-4-n-puzzle'
 
 
